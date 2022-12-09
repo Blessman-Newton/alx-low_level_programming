@@ -1,3 +1,7 @@
+/**
+ *int main() func is the main entry in c pro
+ *The return() func terminateor ends the main() func
+*/
 #include <stdio.h>
 int main(void)
 {
