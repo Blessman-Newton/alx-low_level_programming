@@ -1,5 +1,5 @@
 /**
- * main print all possible combination of single-digit number
+ * main - print all posible combination of single-digit number
  * Return: Always return  SUCCESSFUL MGE
  */
 
