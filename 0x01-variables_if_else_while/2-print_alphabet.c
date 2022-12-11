@@ -6,11 +6,9 @@
 int main(void)
 {
 char alpha = 'a';
-while (alpha <= 'z')
+for (alpha = 'a', alpha <= 'z'; alpha++)
 {
 putchar(alpha);
-putchar('\n');
-alpha++;
 }
 return (0);
 }
