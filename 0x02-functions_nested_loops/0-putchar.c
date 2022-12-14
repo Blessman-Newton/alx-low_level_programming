@@ -3,13 +3,13 @@
  *Return: Always 0
  */
 
-#include "main.h"i
+#include "main.h"
 
 int main(void)
 {
 	_putchar('_');
 	_putchar('p');
-	_putcahr('u');
+	_putchar('u');
 	_putchar('t');
 	_putchar('c');
 	_putchar('h');
