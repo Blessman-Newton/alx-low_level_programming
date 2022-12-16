@@ -1,5 +1,5 @@
 /**
- * void print_line - draws a straight line in the terminal
+ * print_line - draws a straight line in the terminal
  * @n: character to be checked
  * Return: Always 0
  */
