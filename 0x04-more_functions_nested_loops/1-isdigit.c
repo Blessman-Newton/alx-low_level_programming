@@ -4,7 +4,7 @@
  * Return: Returns 1 if c is a digit, 0 otherwise
  */
 
-#include <main.h>
+#include "main.h"
 
 int _isdigit(int c)
 {
