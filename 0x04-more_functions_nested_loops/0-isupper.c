@@ -4,7 +4,7 @@
  * Return: 1 if c is uppercase, 0 otherwise
  */
 
-#include <main.h>
+#include "main.h"
 
 int _isupper(int c)
 {
