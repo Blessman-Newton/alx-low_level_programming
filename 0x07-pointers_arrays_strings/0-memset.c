@@ -1,3 +1,4 @@
+#include "main.h"
 /**
  * *_memset - function that fills memory with a constant byt
  * @s: memory area to be fill
