@@ -6,7 +6,7 @@
  */
 #include "main.h"
 
-int main(int argc, char *argv[] __attribute__((unussed)))
+int main(int argc, char *argv[] __attribute__((unused)))
 {
 	_putchar("%d\n", argc - 1);
 	return (0);
