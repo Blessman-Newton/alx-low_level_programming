@@ -1,0 +1,11 @@
+[
+    {
+        "label": "island_perimeter",
+        "kind": 2,
+        "importPath": "0x1C-makefiles.5-island_perimeter",
+        "description": "0x1C-makefiles.5-island_perimeter",
+        "peekOfCode": "def island_perimeter(grid):\n    \"\"\"Return the perimiter of an island.\n    The grid represents water by 0 and land by 1.\n    Args:\n        grid (list): A list of list of integers representing an island.\n    Returns:\n        The perimeter of the island defined in grid.\n    \"\"\"\n    width = len(grid[0])\n    height = len(grid)",
+        "detail": "0x1C-makefiles.5-island_perimeter",
+        "documentation": {}
+    }
+]
